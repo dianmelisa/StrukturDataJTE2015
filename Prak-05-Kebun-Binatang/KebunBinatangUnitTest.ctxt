@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment1.params=
+comment1.target=void\ tearDown()
+comment2.params=
+comment2.target=void\ harimau()
+comment2.text=\n\ Uji\ class\ Harimau\n
+comment3.params=
+comment3.target=void\ kambing()
+comment3.text=\n\ Uji\ class\ Kambing\n
+comment4.params=
+comment4.target=void\ ular()
+comment4.text=\n\ Uji\ class\ Ular\n
+comment5.params=
+comment5.target=void\ komodo()
+comment5.text=\n\ Uji\ class\ Komodo\n
+comment6.params=
+comment6.target=void\ mangga()
+comment6.text=\n\ Uji\ class\ Mangga\n
+comment7.params=
+comment7.target=void\ alien()
+comment7.text=\n\ Uji\ class\ Alien\n
+numComments=8
