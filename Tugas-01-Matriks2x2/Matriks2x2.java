@@ -86,6 +86,9 @@ public class Matriks2x2 {
         return new Matriks2x2(a11, a12, a21, a22);
     }
     
+    /**
+     * Menghitung Determinan
+     */
     double determinan (){
         int a11=0, a12=0, a21=0, a22=0;
         
@@ -93,7 +96,10 @@ public class Matriks2x2 {
         return determinan;
     }
     
-    Matriks2x2 inverse() throws TanpaInverse, SalahIndeks {
+    /**
+     * Inverse
+     */
+    Matriks2x2 inverse() throws TanpaInverse {
         int a11 = 0, a12 = 0, a21 = 0, a22 = 0;
         
         try{
@@ -102,8 +108,8 @@ public class Matriks2x2 {
             }
             else {
                 a11 = this.a22 /(int) determinan();
-                a12 = -this.a12 /(int) determinan();
-                a21 = -this.a21 /(int) determinan();
+                a12 = -this.a21 /(int) determinan();
+                a21 = -this.a12 /(int) determinan();
                 a22 = this.a11 /(int) determinan();
             }
         }
@@ -114,8 +120,9 @@ public class Matriks2x2 {
     
     public double inverseSingular(double determinan) throws TanpaInverse{
         if (determinan == 0) {
+           // throw new TanpaInverse("Inverse Singular");
             return determinan ();
-
+            
         }
         throw new TanpaInverse("Inverse Singular");
               
