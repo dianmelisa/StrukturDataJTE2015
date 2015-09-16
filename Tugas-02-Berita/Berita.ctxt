@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=judul\ Penulis
+comment0.target=Berita(java.lang.String,\ java.lang.String[])
+comment1.params=
+comment1.target=java.lang.String\ judul()
+comment2.params=Penulis
+comment2.target=java.lang.String\ daftarPenulis(java.lang.String)
+numComments=3
