@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FiniteElement()
+comment1.params=gaya
+comment1.target=FiniteElement(Gaya[])
+comment2.params=
+comment2.target=Gaya[]\ daftarGaya()
+numComments=3
