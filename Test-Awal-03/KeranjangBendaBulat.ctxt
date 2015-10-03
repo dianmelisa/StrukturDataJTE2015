@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bendaBulat
+comment0.target=KeranjangBendaBulat(BendaBulat[])
+comment1.params=
+comment1.target=int\ jumlah()
+comment2.params=
+comment2.target=BendaBulat[]\ isi()
+numComments=3
