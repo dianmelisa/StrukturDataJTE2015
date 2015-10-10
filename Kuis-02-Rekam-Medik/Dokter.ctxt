@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nama
+comment0.target=Dokter(java.lang.String)
+comment1.params=pasien
+comment1.target=Pasien[]\ pemeriksaanPasien(Pasien[])
+numComments=2

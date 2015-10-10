@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pasien\ dosis\ jumlah
+comment0.target=Obat(Pasien[],\ java.lang.String,\ int)
+numComments=1

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=tanggalPemeriksaan\ catatan\ obat
+comment0.target=Pemeriksaan(java.util.Date,\ Catatan[],\ Resep[])
+numComments=1
