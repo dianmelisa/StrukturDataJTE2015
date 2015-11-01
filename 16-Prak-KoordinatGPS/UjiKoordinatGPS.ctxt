@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UjiKoordinatGPS()
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ constructorDefault()
+comment4.params=
+comment4.target=void\ constructorString()
+comment5.params=
+comment5.target=void\ constructorPrimitive()
+comment6.params=
+comment6.target=void\ constructorObject()
+comment7.params=
+comment7.target=void\ lintang()
+comment8.params=
+comment8.target=void\ bujur()
+numComments=9

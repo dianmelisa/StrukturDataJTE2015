@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UjiTransaksi()
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ consructorDefault()
+comment4.params=
+comment4.target=void\ consructorString()
+comment5.params=
+comment5.target=void\ consructorPrimitive()
+comment6.params=
+comment6.target=void\ kapan()
+comment7.params=
+comment7.target=void\ debit()
+comment8.params=
+comment8.target=void\ kredit()
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KoordinatGPS()
+comment1.params=bujur\ lintang
+comment1.target=KoordinatGPS(double,\ double)
+comment2.params=bujur\ lintang
+comment2.target=KoordinatGPS(java.lang.Double,\ java.lang.Double)
+comment3.params=
+comment3.target=java.lang.Double\ lintang()
+comment4.params=
+comment4.target=java.lang.Double\ bujur()
+numComments=5
