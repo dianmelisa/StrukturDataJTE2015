@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DaftarTransaksi()
+comment1.params=baru
+comment1.target=void\ tambah(Transaksi)
+comment2.params=
+comment2.target=int\ banyakTransaksi()
+comment3.params=
+comment3.target=java.math.BigInteger\ saldoAkhir()
+comment4.params=
+comment4.target=java.lang.String\ saldoAkhirStr()
+comment5.params=
+comment5.target=void\ tampilkan()
+numComments=6
