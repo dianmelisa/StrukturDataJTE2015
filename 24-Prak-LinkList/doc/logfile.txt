@@ -1,0 +1,53 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_60\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;D:\StrukturDataJTE2015\24-Prak-LinkList
+-d
+D:\StrukturDataJTE2015\24-Prak-LinkList\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java
+<---- end of javadoc command ---->
+Loading source file D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java...
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:52: error: '(' expected
+        if 
+          ^
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:53: error: illegal start of expression
+        for(int i = 0; i < setelah && sekarang != null; i++)
+        ^
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:53: error: ')' expected
+        for(int i = 0; i < setelah && sekarang != null; i++)
+           ^
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:53: error: variable declaration not allowed here
+        for(int i = 0; i < setelah && sekarang != null; i++)
+                ^
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:53: error: > expected
+        for(int i = 0; i < setelah && sekarang != null; i++)
+                                   ^
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:53: error: not a statement
+        for(int i = 0; i < setelah && sekarang != null; i++)
+                         ^
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:53: error: not a statement
+        for(int i = 0; i < setelah && sekarang != null; i++)
+                                               ^
+D:\StrukturDataJTE2015\24-Prak-LinkList\LinkList.java:53: error: ';' expected
+        for(int i = 0; i < setelah && sekarang != null; i++)
+                                                           ^
+8 errors

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkList()
+comment1.params=
+comment1.target=Node\ kepala()
+comment2.params=data
+comment2.target=void\ tambah(Transaksi)
+comment3.params=indeks
+comment3.target=Node\ elemenKe(int)
+comment4.params=setelah\ data
+comment4.target=void\ sisip(int,\ Transaksi)
+comment5.params=indeksSebelum
+comment5.target=void\ hapus(int)
+numComments=6
