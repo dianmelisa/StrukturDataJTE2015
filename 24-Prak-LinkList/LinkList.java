@@ -63,10 +63,10 @@ public class LinkList {
         if (sekarang == null)
         // Tidak ketemu, batal
         return;
-        // Sisip
+        // hapus
         Node baru = sekarang;
         baru.berikut = sekarang.berikut.berikut;
-        sekarang.berikut = baru;
+        
         
     }
 }
