@@ -13,23 +13,19 @@ public class Tumpukan
     
    public void tumpuk(BigInteger data){ 
        Node nodeBaru = new Node(data);
-       nodeBaru.berikut = atas;
-       atas = nodeBaru;
-       size = size.add(BigInteger.ONE);
-       
-       /**
-       if(bawah ==null && atas == null)
-            bawah=atas;
+       //cek sudah ada node sebelumny
+       if(bawah ==null && atas == null){
+            bawah = nodeBaru;
+            atas = nodeBaru;
+       }
        else{
-           Node nodeBaru = new Node(data);
-           Node sekarang = atas;
-           while (sekarang.berikut !=null)
-                sekarang = sekarang.berikut;
-                sekarang.berikut = atas;
-          
-           size = size.add(BigInteger.ONE);
-           dd
-       } **/
+           while (atas.berikut !=null){
+                atas = atas.berikut;
+                atas.berikut = nodeBaru;
+            }
+          // size = size.add(BigInteger.ONE);
+           
+       } 
        
        
        
