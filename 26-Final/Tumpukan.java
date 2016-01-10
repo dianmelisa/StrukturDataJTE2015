@@ -41,7 +41,9 @@ public class Tumpukan
         else{
             BigInteger hasil = atas.data;
             atas.berikut = atas;
-            return size = size.subtract(BigInteger.ONE);
+            size = size.subtract(BigInteger.ONE);
+            return hasil;
+  
         }
             
     
